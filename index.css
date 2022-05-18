@@ -1,0 +1,121 @@
+.navbar-brand{
+    font-weight: 600;
+    color: black;
+    font-size: 22px;
+    font-family: 'Jomolhari', serif;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
+.nav-item{
+    font-size: 16px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+/*head title*/
+.head1{
+    font-size: 80px;
+    text-align: center; 
+    margin: 200px auto 0px; 
+    text-indent: -20%; 
+    font-family: 'Jomolhari', serif; 
+    font-weight: bold;
+}
+.head2{
+    font-size: 80px;
+    text-align: center; 
+    margin: 0px auto; 
+    text-indent: 20%; 
+    font-family: 'Jomolhari', serif; 
+    font-weight: bold;
+}
+/*head title*/
+
+/*head button dan link head*/
+.btn1{
+    width: 250px; 
+    font-size: 12px; 
+    padding: 15px 0px; 
+    background-color: black;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.linkhead{
+    font-size: 12px;
+    color: black;
+    font-weight: 600;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*head button dan link head*/
+
+/*carousel*/
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+.carousel-caption{
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    transition: .8s ease;
+    opacity:0;
+    color: white;
+    padding: 10px;
+}
+.carousel-caption:hover{
+    opacity: 1;
+    border: 1px solid white;
+}
+.carouselimglink:hover{
+    text-decoration: underline;
+}
+/*carousel*/
+
+/* daftar kolom   yang berada di bawah*/
+.listkolom:hover{
+    transform: scale(0.9);
+}
+.listkolom{
+    transition: .5s;
+}
+/* daftar kolom   yang berada di bawah*/
+/*footer*/
+.footer{
+    background-color: black;
+    height: 100%;
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+ }
+ .signup{
+     max-width: 400px;
+     margin-left:auto ;
+     margin-right: auto;
+     padding-bottom: 40px;
+     border-bottom: white solid 1px;
+ }
+ .signupbtn{
+     background-color: black;
+     color: white;
+     border-color: white;
+ }
+ .headifootereinfo{
+     font-size: 14px;
+     font-weight: 800;
+     padding-bottom: 10px;
+     text-align: center;
+     color: white;
+ }
+ .footerinfo{
+     margin-top:40px ;
+     margin-left:auto ;
+     margin-right: auto;
+     padding-bottom: 40px;
+     text-align: center;
+     color: white;
+ }
+ /*footer*/

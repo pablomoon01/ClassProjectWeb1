@@ -1,0 +1,60 @@
+.navbar-brand{
+    font-weight: 600;
+    color: black;
+    font-size: 22px;
+    font-family: 'Jomolhari', serif;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
+.nav-item{
+    font-size: 16px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.formulir{
+   margin-top: 150px;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: fit-content;
+}
+.footer{
+   background-color: black;
+   height: 100%;
+   position: relative;
+   top: 100px;
+   padding-top: 80px;
+}
+.signup{
+    max-width: 400px;
+    margin-left:auto ;
+    margin-right: auto;
+    padding-bottom: 40px;
+    border-bottom: white solid 1px;
+}
+.signupbtn{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.headifootereinfo{
+    font-size: 14px;
+    font-weight: 800;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+.footerinfo{
+    margin-top:40px ;
+    margin-left:auto ;
+    margin-right: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+}
